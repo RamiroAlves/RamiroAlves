@@ -1,4 +1,4 @@
-### Olá! Eu sou o Ramiro Alves 👋
+### Olá, bem-vindo! Eu sou o Ramiro Alves 👋
 
 - 🔭 I’m currently working on front-end
 - 🌱 I’m currently learning JavaScript, ReactJs and React Native
@@ -23,5 +23,5 @@
     <a href="https://www.linkedin.com/in/ramiro-alves" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href="https://instagram.com/ramiroalves.dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     
-   Run ![Snake animation](https://github.com/RamiroAlves/RamiroAlves/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/RamiroAlves/RamiroAlves/blob/output/github-contribution-grid-snake.svg)
   </div>
