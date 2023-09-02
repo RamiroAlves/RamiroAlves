@@ -1,7 +1,7 @@
 ### Olá, bem-vindo! Eu sou o Ramiro Alves 👋
 
 - 🔭 I’m currently working on front-end
-- 🌱 I’m currently learning JavaScript, ReactJs and React Native
+- 🌱 I’m currently learning JavaScript, ReactJs, React Native and Flutter
 
 <div align="center">
   <a href="https://github.com/RamiroAlves">
