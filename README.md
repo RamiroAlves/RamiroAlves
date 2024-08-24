@@ -1,7 +1,7 @@
 ### Olá, bem-vindo! Eu sou o Ramiro Alves 👋
 
 - 🔭 I’m currently working on front-end
-- 🌱 I’m currently learning JavaScript, ReactJs, React Native and Flutter
+- 🌱 I’m currently learning JavaScript, ReactJs, React Native and CSharp
 
 <div align="center">
   <a href="https://github.com/RamiroAlves">
@@ -15,7 +15,7 @@
   <img align="center" alt="Ramiro-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Ramiro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ramiro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Ramiro-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
+  <img align="center" alt="Ramiro-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" />
 </div>
 </div>
   
