@@ -1,6 +1,6 @@
 ### Olá, bem-vindo! Eu sou o Ramiro Alves 👋
 
-- 🔭 I’m currently working on front-end
+- 🔭 I’m currently working on front-end and mobile
 - 🌱 I’m currently learning JavaScript, ReactJs and React Native
 
 <div align="center">
